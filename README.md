@@ -1,5 +1,5 @@
 # Arduino_Snake_Game
--> Proje için gerekli elektronik malzemeler ( Required Materials)
+-> Proje için gerekli elektronik malzemeler ( Required Materials):
 
 -> Arduino UNO
 -> Nokia 5510 1.6 İNÇ LCD EKRAN
