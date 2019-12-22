@@ -1,9 +1,9 @@
 # Arduino_Snake_Game
--> Proje için gerekli elektronik malzemeler:
-1.Arduino UNO
-2.Nokia 5510 1.6 İNÇ LCD EKRAN
-3.20 Adet Jumper Kablo
-4.5 Adet Buton
+-> Proje için gerekli elektronik malzemeler
+1: Arduino UNO
+2: Nokia 5510 1.6 İNÇ LCD EKRAN
+3: 20 Adet Jumper Kablo
+4: 5 Adet Buton
 
 -> Projede LCD5510_Graph kütüphanesi kullanılmıştır. Aşağıdaki adresten indirilebilir:
 http://www.rinkydinkelectronics.com/library.php?id=48
